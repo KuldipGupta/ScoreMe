@@ -2,8 +2,8 @@
 ## RESILIENT DECISION SYSTEM
 ### A Configurable Workflow Decision Platform
 
-**Submission Repository**: [https://github.com/Bhaskar2810/scromeproject](https://github.com/Bhaskar2810/scromeproject)  
-**Author**: Bhaskar Jha  
+**Submission Repository**: [https://github.com/KuldipGupta/ScoreMe](https://github.com/KuldipGupta/ScoreMe)  
+**Author**: Kuldip Gupta  
 **Role**: Principal Software Architect & Full-Stack Engineer  
 **Technology Stack**: MERN (MongoDB Atlas, Express.js, React 18, Node.js)  
 **Date**: November 13, 2026  
@@ -250,8 +250,8 @@ The frontend compiles into production-optimized assets with zero warnings or err
 
 ### Step 1: Clone & Configure
 ```bash
-git clone https://github.com/Bhaskar2810/scromeproject.git
-cd scromeproject
+git clone https://github.com/KuldipGupta/ScoreMe.git
+cd ScoreMe
 ```
 
 ### Step 2: Environment Variables
@@ -306,4 +306,4 @@ The **Resilient Decision System** fulfills every functional, non-functional, res
 By eliminating hardcoded logic in favor of a dynamic, versioned rules engine, enforcing idempotency across intake channels, providing full explainability for every outcome, and demonstrating robust fault recovery under downstream dependency failures, the system represents an enterprise-ready foundation for high-volume decision automation.
 
 **Final Evaluation Status**: **CERTIFIED PRODUCTION READY (ALL CRITERIA SATISFIED)**  
-**Source Code Repository**: [https://github.com/Bhaskar2810/scromeproject](https://github.com/Bhaskar2810/scromeproject)
+**Source Code Repository**: [https://github.com/KuldipGupta/ScoreMe](https://github.com/KuldipGupta/ScoreMe)
